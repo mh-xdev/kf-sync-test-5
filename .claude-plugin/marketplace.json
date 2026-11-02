@@ -1,0 +1,8 @@
+{
+  "name": "kf-sync-test-5",
+  "description": "Test marketplace: does Claude Desktop's Add marketplace sync this shape?",
+  "owner": { "name": "mh-xdev" },
+  "plugins": [
+    { "name": "kf-sync-test", "source": "./plugins/kf-sync-test", "description": "Test plugin (kf-sync-test-5)." }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "kf-sync-test",
+  "version": "0.0.1",
+  "description": "Test plugin (kf-sync-test-5).",
+  "author": { "name": "mh-xdev" },
+  "mcpServers": {
+    "ai-knowledge-fabric": {
+      "command": "ai-knowledge-fabric-mcp",
+      "args": []
+    }
+  }
+}
